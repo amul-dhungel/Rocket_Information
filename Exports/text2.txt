@@ -1,0 +1,15 @@
+Falcon9     , SpaceX     , 80000 , 100, 1000000 , 25000000 , Merlin , Geostationary    , Commercial, USA   , 99%    ,Starlink  ,
+Falcon Heavy, SpaceX     , 100000, 120, 175647  , 15000000 , Merlin , Lower Earth Orbit, Commercial, USA   , 99.99% ,Mission1  ,
+RISAT2BR1   , ISRO       , 123546, 11 , 1245674 , 12378469 , BE4    , Moon Landing     , Government, India , 80%    ,LEO       ,
+Chandrayaan2, ISRO       , 135467, 20 , 7364873 , 12748746 , RD170  , Moon Landing     , Government, India , 95%    ,Chandrayan,
+Falcon9     , SpaceX     , 236456, 657, 273876  , 75897483 , Merlin , Lower Earth Orbit, Commercial, USA   , 99%    ,Starlink  ,
+FalconHeavy , SpaceX     , 75874 , 84 , 748763  , 6746532  , Raptor , Heavy Payload    , Commercial, USA   , 98%    ,ISS       
+SaturnV     , NASA       , 785766, 23 , 74873689, 74876473 , RD1    , Moon Landing     , Government, USA   ,99.99%,Apollo 11,
+Soyuz	    , Roscosmos  , 7385  , 23 , 7847567 , 758679398, RD107  , Moon Landing     , Government, Russia,98%,Luna Mission,
+NewGlen     , Blue Origin, 230863, 26 , 3748578 , 37487938 , BE4    , Heavy Payload    , Commercial, USA   ,60%,Unknown,
+SaturnIV    , NASA       , 83748 , 12 , 7485783 , 8348499  , RD1    , Lower Earth Orbit, Government, USA   ,99.99%,Apollo,
+Scout       , NASA       , 74857 , 78 , 384799  , 1000029  , Kestral, Lower Earth Orbit, Government, USA   ,97%,Mission5,
+Epsilon     , IHI        , 83746 , 23 , 748578  , 8374658  , Raptor , Heavy Payload    , Government, Japan     ,96%,LEO,
+Electron    , Rocket Lab , 73846 , 10 , 354676  , 7465738  , RD170  , Lower Earth Orbit, Commercial, New Zealand,100%,SmallSat,
+
+
